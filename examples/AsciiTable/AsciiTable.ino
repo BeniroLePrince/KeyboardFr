@@ -42,7 +42,8 @@ void setup() {
     /*
      * Note : It is possible to send a key code directly, instead of
      * a letter. To do this, add 0x88 to the key code (available at
-     * https://github.com/msommacal/KeyboardFr/img/key_code.png).
+     * https://raw.githubusercontent.com/msommacal/KeyboardFr/master
+     * /img/key_code.png).
      *
      * Thus the following line displays the character "è":
      * Keyboard.write(0x24+0x88);
