@@ -33,7 +33,7 @@ To include the library in one of your sketchbooks, simply use the following inst
 #include "KeyboardFr.h"
 ```
 
-An example of use is available in the example folder.
+An example of use is available in the examples folder.
 
 ## License
 
